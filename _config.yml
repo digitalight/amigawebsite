@@ -18,7 +18,7 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   This blog is all about Commodore Amiga. A computer I grew up with as a kid and very popular here in the UK in the 1980's - 1990's.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://digitalight.github.io/amigawebsite/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
