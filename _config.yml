@@ -13,14 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MikeyG's Amiga Blog
-email: your-email@example.com
+title: MikeyG Amiga Website
 description: >- # this means to ignore newlines until "baseurl:"
-  This blog is all about Commodore Amiga. A computer I grew up with as a kid and very popular here in the UK in the 1980's - 1990's.
+  My website is all about my retro computing experiences. Mainly about Commodore Amiga's. Enjoy your time here.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://digitalight.github.io/amigawebsite/" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
-# github_username:  jekyll
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: MikeyGRetro
 
 # Build settings
 markdown: kramdown
