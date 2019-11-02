@@ -18,13 +18,17 @@ description: >- # this means to ignore newlines until "baseurl:"
   My website is all about my retro computing experiences. Mainly about Commodore Amiga's. Enjoy your time here.
 baseurl: "/amigawebsite" # the subpath of your site, e.g. /blog
 url: "https://digitalight.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: MikeyGRetro
-flickr_username: 148468019@N04
-youtube_username: UCGv4wA5xW6qFSFiRfZcWaBQ
 
 # Build settings
 markdown: kramdown
 theme: minima
+
+minima:
+  social_links:
+    youtube: MikeyGRetro
+    youtube_channel: UCGv4wA5xW6qFSFiRfZcWaBQ
+    youtube_channel_name: MikeyGRetro
+
 plugins:
   - jekyll-feed
 
