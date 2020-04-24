@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'MikeyG'
 SITENAME = 'MikeyG Amiga Site'
-SITEURL = ''
+SITEURL = 'https://digitalight.github.io/amigawebsite/'
 
 PATH = 'content'
 
