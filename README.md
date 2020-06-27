@@ -1,6 +1,6 @@
 # Amiga Website
 
-_Curently Work in progress_
+_Currently Work in progress_
 
 This site uses the Static Site Generator, Pelican.
 
